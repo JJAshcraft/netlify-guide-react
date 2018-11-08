@@ -1,3 +1,4 @@
 [build]
 base = "test-repo/"
 publish = "test-repo/build/"
+command = "yarn build"
