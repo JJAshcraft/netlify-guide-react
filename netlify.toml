@@ -1,0 +1,3 @@
+[build]
+base = "test-repo/"
+publish = "test-repo/build/"
